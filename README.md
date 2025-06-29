@@ -37,4 +37,4 @@ O jogo foi feito com um layout simples e intuitivo, com imagens leves e cursor p
 
 Você pode jogar direto pelo GitHub Pages:
 
-👉 [Jogue agora](https://catia.github.io/MATAMOSQUITO-WEBGAME)
+👉 [Jogue agora](https://catiamaine.github.io/MataMosquito-WebGame/)
